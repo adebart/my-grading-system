@@ -281,3 +281,414 @@ button:hover{
     padding-left: 30px;
 
 }
+
+
+@media (max-width: 450px) {
+    .div1{
+        margin: auto;
+        width: 90vw;
+        text-align: center;
+        height: 80vh;
+    }
+    #Student{
+        width: 80%;
+        padding-left: 4px;
+        font-size: 15px;
+    }
+    button{
+        height: 25px;
+
+    }
+    .div2{
+        width: 80vw;
+        height: 30px;
+        text-align: center;
+        display: block;
+        justify-content: center;
+        align-items: center;
+    }
+    #remark{
+        font-size: 15px;
+        margin: auto;
+    }
+    #one{
+        height: 20px;
+        width: 100px;
+        font-size: 15px;
+        margin: auto;
+    }
+    #onee{
+        height: 20px;
+        width: 100px;
+        font-size: 15px;
+    }
+    #onne{
+        height: 20px;
+        width: 100px;
+        font-size: 15px;
+    }
+    #oone{
+        height: 20px;
+        width: 100px;
+        font-size: 15px;
+    }
+
+
+    #two{
+        height: 20px;
+        width: 100px;
+        font-size: 15px;
+    }
+    #twoo{
+        height: 20px;
+        width: 100px;
+        font-size: 15px;
+    }
+    #twwo{
+        height: 20px;
+        width: 100px;
+        font-size: 15px;
+    }
+    #ttwo{
+        height: 20px;
+        width: 100px;
+        font-size: 15px;
+    }
+
+
+    #three{
+        height: 20px;
+        width: 100px;
+        font-size: 15px;
+    }
+    #threee{
+        height: 20px;
+        width: 100px;
+        font-size: 15px;
+    }
+    #thrree{
+        height: 20px;
+        width: 100px;
+        font-size: 15px;
+    }
+    #thhree{
+        height: 20px;
+        width: 100px;
+        font-size: 15px;
+    }
+    h1{
+        margin: auto;
+    }
+}
+
+
+
+
+@media (max-width: 350px) {
+    .div1{
+        margin: auto;
+        width: 90vw;
+        text-align: center;
+        height: 80vh;
+    }
+    #Student{
+        width: 80%;
+        padding-left: 4px;
+        font-size: 15px;
+    }
+    button{
+        height: 25px;
+        width: 100px;
+
+    }
+    .div2{
+        width: 80vw;
+        height: 30px;
+        text-align: center;
+        display: block;
+        justify-content: center;
+        align-items: center;
+    }
+    #remark{
+        font-size: 15px;
+        margin: auto;
+    }
+    #one{
+        height: 20px;
+        width: 100px;
+        font-size: 15px;
+        margin: auto;
+    }
+    #onee{
+        height: 20px;
+        width: 100px;
+        font-size: 15px;
+    }
+    #onne{
+        height: 20px;
+        width: 100px;
+        font-size: 15px;
+    }
+    #oone{
+        height: 20px;
+        width: 100px;
+        font-size: 15px;
+    }
+
+
+    #two{
+        height: 20px;
+        width: 100px;
+        font-size: 15px;
+    }
+    #twoo{
+        height: 20px;
+        width: 100px;
+        font-size: 15px;
+    }
+    #twwo{
+        height: 20px;
+        width: 100px;
+        font-size: 15px;
+    }
+    #ttwo{
+        height: 20px;
+        width: 100px;
+        font-size: 15px;
+    }
+
+
+    #three{
+        height: 20px;
+        width: 100px;
+        font-size: 15px;
+    }
+    #threee{
+        height: 20px;
+        width: 100px;
+        font-size: 15px;
+    }
+    #thrree{
+        height: 20px;
+        width: 100px;
+        font-size: 15px;
+    }
+    #thhree{
+        height: 20px;
+        width: 100px;
+        font-size: 15px;
+    }
+    h1{
+        margin: auto;
+        text-align: center;
+        font-size: 30px;
+    }
+
+}
+
+@media (max-width: 900px) {
+    .div1{
+        margin: auto;
+        margin-top: 20%;
+        width: 80vw;
+        text-align: center;
+        /* height: 70vh; */
+    }
+    #Student{
+        width: 80%;
+        padding-left: 4px;
+        font-size: 15px;
+    }
+    button{
+        height: 25px;
+
+    }
+    .div2{
+        width: 80vw;
+        height: 40px;
+        text-align: center;
+        display: block;
+        justify-content: center;
+        align-items: center;
+    }
+    #remark{
+        font-size: 15px;
+        margin: auto;
+    }
+    #one{
+        height: 20px;
+        width: 100px;
+        font-size: 15px;
+        margin: auto;
+    }
+    #onee{
+        height: 20px;
+        width: 100px;
+        font-size: 15px;
+    }
+    #onne{
+        height: 20px;
+        width: 100px;
+        font-size: 15px;
+    }
+    #oone{
+        height: 20px;
+        width: 100px;
+        font-size: 15px;
+    }
+
+
+    #two{
+        height: 20px;
+        width: 100px;
+        font-size: 15px;
+    }
+    #twoo{
+        height: 20px;
+        width: 100px;
+        font-size: 15px;
+    }
+    #twwo{
+        height: 20px;
+        width: 100px;
+        font-size: 15px;
+    }
+    #ttwo{
+        height: 20px;
+        width: 100px;
+        font-size: 15px;
+    }
+
+
+    #three{
+        height: 20px;
+        width: 100px;
+        font-size: 15px;
+    }
+    #threee{
+        height: 20px;
+        width: 100px;
+        font-size: 15px;
+    }
+    #thrree{
+        height: 20px;
+        width: 100px;
+        font-size: 15px;
+    }
+    #thhree{
+        height: 20px;
+        width: 100px;
+        font-size: 15px;
+    }
+    h1{
+        margin: auto;
+    }
+
+}
+
+
+
+
+
+
+@media (max-width: 360px) {
+    .div1{
+        margin: auto;
+        width: 90vw;
+        text-align: center;
+        height: 80vh;
+    }
+    #Student{
+        width: 80%;
+        padding-left: 4px;
+        font-size: 15px;
+    }
+    button{
+        height: 28px;
+        width: 100px;
+        font-size: 1rem;
+        text-align:center;
+
+    }
+    .div2{
+        width: 80vw;
+        height: 30px;
+        text-align: center;
+        display: block;
+        justify-content: center;
+        align-items: center;
+    }
+    #remark{
+        font-size: 15px;
+        margin: auto;
+    }
+    #one{
+        height: 20px;
+        width: 100px;
+        font-size: 15px;
+        margin: auto;
+    }
+    #onee{
+        height: 20px;
+        width: 100px;
+        font-size: 15px;
+    }
+    #onne{
+        height: 20px;
+        width: 100px;
+        font-size: 15px;
+    }
+    #oone{
+        height: 20px;
+        width: 100px;
+        font-size: 15px;
+    }
+
+
+    #two{
+        height: 20px;
+        width: 100px;
+        font-size: 15px;
+    }
+    #twoo{
+        height: 20px;
+        width: 100px;
+        font-size: 15px;
+    }
+    #twwo{
+        height: 20px;
+        width: 100px;
+        font-size: 15px;
+    }
+    #ttwo{
+        height: 20px;
+        width: 100px;
+        font-size: 15px;
+    }
+
+
+    #three{
+        height: 20px;
+        width: 100px;
+        font-size: 15px;
+    }
+    #threee{
+        height: 20px;
+        width: 100px;
+        font-size: 15px;
+    }
+    #thrree{
+        height: 20px;
+        width: 100px;
+        font-size: 15px;
+    }
+    #thhree{
+        height: 20px;
+        width: 100px;
+        font-size: 15px;
+    }
+    h1{
+        margin: auto;
+    }
+
+}

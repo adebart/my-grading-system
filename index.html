@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My school grade</title>
+    <link rel="stylesheet" href="grade.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Audiowide">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Patua+One&display=swap" rel="stylesheet">
+
+</head>
+<body>
+    <div class="div1">
+        <h1>MY SCHOOL.GRADE</h1>
+
+        <span class="spp">Student Name :</span> <input id="Student" type="text"> <br>
+        <span class="spp">Average Score :</span> <span id="avea"></span> <br>
+        <span class="spp">Grade :</span> <span id="grade"></span> <br>
+        
+        <span class="spp">Math :</span> <input id="one" placeholder="ATTENDANCE"/>  <input id="two" placeholder="C.A"/>  <input id="three" placeholder="EXAM"/> <span>=</span> <span id="first"></span> <br>
+        <span class="spp">Eng  &nbsp;:&nbsp;</span> <input id="onee" placeholder="ATTENDANCE"/>  <input id="twoo" placeholder="C.A"/>  <input id="threee" placeholder="EXAM"/> <span>=</span> <span id="sec"></span> <br>
+        <span class="spp" >Phy :&nbsp;&nbsp;</span> <input id="onne" placeholder="ATTENDANCE"/>  <input id="twwo" placeholder="C.A"/>  <input id="thrree" placeholder="EXAM"/> <span>=</span> <span id="trd"></span> <br>
+        <span class="spp">Chem :</span> <input id="oone" placeholder="ATTENDANCE"/>  <input id="ttwo" placeholder="C.A"/>  <input id="thhree" placeholder="EXAM"/> <span>=</span> <span id="frt"></span> <br>
+        <button  onclick="firstSum()">score</button>  
+        <button onclick="average()">average score</button>
+        <button onclick="reMark()">remark</button>
+        <button onclick="grade()">Grade</button>  <br>
+
+       
+    </div>
+    <div class="div2">
+        <span id="remark"></span> <br>
+        
+    </div>
+
+
+
+
+
+
+
+    <script src="grade.js"></script>
+</body>
+</html>

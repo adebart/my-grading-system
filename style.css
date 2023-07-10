@@ -1,0 +1,283 @@
+body{
+    /* background-image: url(images/ReportCard.webp); */
+    background-position: center;
+    background-size: 100vw;
+    /* background-image: linear-gradient(to right, red , yellow); */
+    background: #1f4037;  
+    background: -webkit-linear-gradient(to bottom, #99f2c8, #1f4037); 
+    
+    background: linear-gradient(to bottom, #99f2c8, #1f4037); 
+
+    height: 100vh;
+}
+body:hover{
+    background-image: url(images/ReportCard.webp);
+    background-position: center;
+    background-size: 100vw;
+}
+
+.div1 {
+    /* background: #fffbd5;  
+    background: -webkit-linear-gradient(to bottom, #b20a2c, #fffbd5);  
+    background: linear-gradient(to bottom, #b20a2c, #fffbd5);  */
+
+    /* background: #403B4A;  
+    background: -webkit-linear-gradient(to left, #E7E9BB, #403B4A);  
+    background: linear-gradient(to left, #E7E9BB, #403B4A);  */
+
+
+    /* background: #403B4A;  
+background: -webkit-linear-gradient(to left, #E7E9BB, #403B4A);  
+background: linear-gradient(to left, #E7E9BB, #403B4A);  */
+
+    /* background-image: url(images/imagesrrrr.jpg); */
+    /* background-position: center; */
+    /* background-size: cover; */
+    margin: auto;
+    width: 50vw;
+    height: 450px;
+    padding-left: 10px;
+    border-radius: 50px;
+    margin-top: 50px;
+    background-color: #8aaae3;
+}
+
+.div2 {
+    /* background-image: url(images/imagesggg.jpg);
+    background-position: center;
+    background-size: cover; */
+    margin: auto;
+    /* border: 1px solid green; */
+    width: 50vw;
+    height: 50px;
+    margin-top: 50px;
+    /* background-image: linear-gradient(to right, red , yellow); */
+    border-radius: 50px;
+
+    
+    background: #1F1C2C;  
+background: -webkit-linear-gradient(to left, #928DAB, #1F1C2C);  
+background: linear-gradient(to left, #928DAB, #1F1C2C); 
+
+
+
+    
+}
+
+#remark {
+    margin-left: 50px;
+    font-size: 25px;
+    font-family: 'Patua One', cursive;
+    color: white;
+    margin-top: 30px;
+}
+
+.spp {
+    width: 150px;
+
+}
+span{
+    font-size: 20px;
+    font-family: 'Patua One', cursive;
+    color:cornsilk;
+}
+#grade{
+    font-size: 20px;
+    font-family: 'Patua One', cursive;
+    color: black;
+}
+
+#avea{
+    font-size: 20px;
+    font-family: 'Patua One', cursive;
+    color: black;
+}
+
+
+#first{
+    font-size: 20px;
+    font-family: 'Patua One', cursive;
+    color: black;
+}
+#sec{
+    font-size: 20px;
+    font-family: 'Patua One', cursive;
+    color: black;
+}
+#trd{
+    font-size: 20px;
+    font-family: 'Patua One', cursive;
+    color: black;
+}
+#frt{
+    font-size: 20px;
+    font-family: 'Patua One', cursive;
+    color: black;
+}
+
+h1{
+    margin-left: 150px;
+    font-family: "Audiowide", sans-serif;
+}
+
+#one {
+    height: 30px;
+    width: 150px;
+    border-radius: 12px;
+    margin-top: 5px;
+    color: white;
+    background-color: #ea748e;
+    border: 1px solid #ea748e;
+    font-size: 20px;
+    font-family: 'Patua One', cursive;
+}
+#onee {
+    height: 30px;
+    width: 150px;
+    border-radius: 12px;
+    margin-top: 5px;
+    color: white;
+    background-color: #ea748e;
+    border: 1px solid #ea748e;
+    font-size: 20px;
+    font-family: 'Patua One', cursive;
+}
+#onne {
+    height: 30px;
+    width: 150px;
+    border-radius: 12px;
+    margin-top: 5px;
+    color: white;
+    background-color: #ea748e;
+    border: 1px solid #ea748e;
+    font-size: 20px;
+    font-family: 'Patua One', cursive;
+}
+#oone {
+    height: 30px;
+    width: 150px;
+    border-radius: 12px;
+    margin-top: 5px;
+    color: white;
+    background-color: #ea748e;
+    border: 1px solid #ea748e;
+    font-size: 20px;
+    font-family: 'Patua One', cursive;
+}
+
+#two {
+    height: 30px;
+    width: 150px;
+    border-radius: 12px;
+    margin-top: 5px;
+    color: white;
+    background-color: #ea748e;
+    border: 1px solid #ea748e;
+    font-size: 20px;
+    font-family: 'Patua One', cursive;
+}
+#twoo {
+    height: 30px;
+    width: 150px;
+    border-radius: 12px;
+    margin-top: 5px;
+    color: white;
+    background-color: #ea748e;
+    border: 1px solid #ea748e;
+    font-size: 20px;
+    font-family: 'Patua One', cursive;
+}
+#twwo {
+    height: 30px;
+    width: 150px;
+    border-radius: 12px;
+    margin-top: 5px;
+    color: white;
+    background-color: #ea748e;
+    border: 1px solid #ea748e;
+    font-size: 20px;
+    font-family: 'Patua One', cursive;
+}
+#ttwo {
+    height: 30px;
+    width: 150px;
+    border-radius: 12px;
+    margin-top: 5px;
+    color: white;
+    background-color: #ea748e;
+    border: 1px solid #ea748e;
+    font-size: 20px;
+    font-family: 'Patua One', cursive;
+}
+
+#three {
+    height: 30px;
+    width: 150px;
+    border-radius: 12px;
+    margin-top: 5px;
+    color: white;
+    background-color: #ea748e;
+    border: 1px solid #ea748e;
+    font-size: 20px;
+    font-family: 'Patua One', cursive;
+}
+#threee {
+    height: 30px;
+    width: 150px;
+    border-radius: 12px;
+    margin-top: 5px;
+    color: white;
+    background-color: #ea748e;
+    border: 1px solid #ea748e;
+    font-size: 20px;
+    font-family: 'Patua One', cursive;
+}
+#thrree {
+    height: 30px;
+    width: 150px;
+    border-radius: 12px;
+    margin-top: 5px;
+    color: white;
+    background-color: #ea748e;
+    border: 1px solid #ea748e;
+    font-size: 20px;
+    font-family: 'Patua One', cursive;
+}
+#thhree {
+    height: 30px;
+    width: 150px;
+    border-radius: 12px;
+    margin-top: 5px;
+    color: white;
+    background-color: #ea748e;
+    border: 1px solid #ea748e;
+    font-size: 20px;
+    font-family: 'Patua One', cursive;
+}
+
+button{
+    height: 30px;
+    width: 150px;
+    margin-top: 20px;
+    margin-left: 6px;
+    font-size: 17px;
+    border-radius: 10px;
+    background-color: #ee4e34;
+    border: 1px solid white;
+    font-family: 'Patua One', cursive;
+}
+button:hover{
+    background-color: #ea748e;
+}
+
+#Student {
+    height: 25px;
+    width: 300px;
+    border-radius: 10px;
+    background-color: #fcedda;
+    border: 1px solid #fcedda;
+    font-size: 20px;
+    font-family: 'Patua One', cursive;
+    padding-left: 30px;
+
+}

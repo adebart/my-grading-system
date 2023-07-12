@@ -79,7 +79,7 @@ background: linear-gradient(to left, #928DAB, #1F1C2C);
 span{
     font-size: 20px;
     font-family: 'Patua One', cursive;
-    color:cornsilk;
+    color:black;
 }
 #grade{
     font-size: 20px;
@@ -92,7 +92,11 @@ span{
     font-family: 'Patua One', cursive;
     color: black;
 }
-
+.div1:hover{
+    background-image: url(images/images\ \(1\).jpg);
+    background-position: center;
+    background-size: cover;
+}
 
 #first{
     font-size: 20px;
@@ -274,7 +278,7 @@ button:hover{
     height: 25px;
     width: 300px;
     border-radius: 10px;
-    background-color: #fcedda;
+    background-color: #8aaae3;
     border: 1px solid #fcedda;
     font-size: 20px;
     font-family: 'Patua One', cursive;
